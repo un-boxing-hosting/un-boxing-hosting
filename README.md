@@ -1,13 +1,13 @@
-### Hi there, I'm un boxing man [website] [umod] 👋
+### Hi there, this is unboxingman hosting [website] [umod] 👋
 
-[![Website](https://img.shields.io/website?label=play.unboxingman.com&style=for-the-badge&url=http%3A%2F%2Fplay.unboxingman.com)](http:play.unboxingman.com)
+[![Website](https://img.shields.io/website?label=play.unboxingman.com&style=for-the-badge&url=https%3A%2F%2Fplay.unboxingman.com)](http:play.unboxingman.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/un_boxing_man?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=un_boxing_man)
 
-## I'm a youtuber and Developer !!
+## we a youtubers, Developers and do hosting !!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I make rust plugins, discord bots and staff on a rust server
+- 🌱 we currently hosting mc servers 🤣
+- 👯 I’m looking to collaborate with other content creators for hosting servers 
+- ⚡ un boxing Fun fact: he makes rust plugins, discord bots and staff on a rust server
 
 
 ### Connect with me:
@@ -23,7 +23,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺  un boxing mans Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Satisfactory Update 4 Release](https://www.youtube.com/watch?v=wHOZjOlZAcc)
@@ -54,7 +54,7 @@
 
 </details>
 
-[website]: http://play.unboxingman.com
+[website]: https://play.unboxingman.com
 [twitter]: https://twitter.com/un_boxing_man
 [youtube]: https://youtube.com/unboxingman2004
 [umod]:https://umod.org/user/unboxingman#plugins

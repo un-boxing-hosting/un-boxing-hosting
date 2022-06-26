@@ -26,11 +26,11 @@
 ### 📺  un boxing mans Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [un boxing the oculus quest 2](https://www.youtube.com/watch?v=vNyl2GBf6Aw)
-- [Flight Simulator flying from KPDX to KDCA](https://www.youtube.com/watch?v=zFdn8qe2KRY)
-- [Satisfactory Update 4 Release](https://www.youtube.com/watch?v=wHOZjOlZAcc)
-- [new membership's join now?](https://www.youtube.com/watch?v=SGgg1GPq5bw)
-- [landing at pdx || Microsoft Flight Sim 2020 #shorts](https://www.youtube.com/watch?v=jxQpfUEHWxY)
+- [flying the darkstar from kpdx](https://www.youtube.com/watch?v=Dj3kP2uxIuM)
+- [void drinking water in slow mo](https://www.youtube.com/watch?v=_wFOH6j6oy8)
+- [unboxing the Netgear nighthawk Wi-Fi 6 mesh](https://www.youtube.com/watch?v=CoEFepqClSI)
+- [thieving pirates](https://www.youtube.com/watch?v=RGkqXWb5bvI)
+- [un boxing the XBOX XS](https://www.youtube.com/watch?v=mtFqTm_weQ8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/unboxingman2004)

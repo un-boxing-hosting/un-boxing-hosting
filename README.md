@@ -28,9 +28,9 @@
 <!-- YOUTUBE:START -->
 - [trying construction sim &lpar;the new one&rpar; Part 2](https://www.youtube.com/watch?v=QPHiRy6RTyQ)
 - [trying construction sim &lpar;the new one&rpar; Part 1](https://www.youtube.com/watch?v=uczby-GzDEE)
-- [flying the Hughes H-4 Hercules AKA the spruce goose](https://www.youtube.com/watch?v=hFNt5retRms)
 - [flying the darkstar from kpdx](https://www.youtube.com/watch?v=Dj3kP2uxIuM)
 - [void drinking water in slow mo](https://www.youtube.com/watch?v=_wFOH6j6oy8)
+- [unboxing the Netgear nighthawk Wi-Fi 6 mesh](https://www.youtube.com/watch?v=CoEFepqClSI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/unboxingman2004)

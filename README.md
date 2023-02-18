@@ -26,7 +26,7 @@
 ### 📺  un boxing mans Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [vine Packages day 31 #amazonvine](https://www.youtube.com/watch?v=AhA_6sqKLfY)
+- [Vine Packages day 31 #amazonvine](https://www.youtube.com/watch?v=AhA_6sqKLfY)
 - [Vine Packages day 30 #amazonvine](https://www.youtube.com/watch?v=5C2H2iw5v8c)
 - [Vine Packages day 29 #amazonvine](https://www.youtube.com/watch?v=fWvjax_-AAU)
 - [vine Packages day 28 #amazonvine](https://www.youtube.com/watch?v=BnVGSKp1ERg)

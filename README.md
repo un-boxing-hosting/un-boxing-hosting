@@ -26,7 +26,7 @@
 ### 📺  un boxing mans Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Un Boxing The DJI Mic 3 | #dji #djimic3 #unboxingvideo #unboxing](https://www.youtube.com/shorts/LqUf1NdHXDA)
+- [Un Boxing The DJI Mic 3 | #dji #djimic3 #unboxingvideo #unboxing #tech](https://www.youtube.com/shorts/LqUf1NdHXDA)
 - [Un Boxing The turtle Beach Velocity One Flight/Rudder/Stand | #flight #velocityone #unboxing](https://www.youtube.com/shorts/vOsR3C4tco0)
 - [Un Boxing The DJI Avata 2 Fly More Combo | #drone #djiavata2 #unboxingvideo](https://www.youtube.com/shorts/IxZL662Wews)
 - [Un Boxing The DJI Flip Fly More Bundle | #drone #dji #djiflip](https://www.youtube.com/shorts/YVtgqdJ_lRY)
